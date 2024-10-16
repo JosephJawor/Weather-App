@@ -6,13 +6,13 @@
 }
 
 body {
-    background-image: url("images/firewatch.jpg");
+    background-image: url("firewatch.png");
 }
 
 .card {
     width: 90%;
     max-width: 470px;
-    background:rgba(62, 62, 62, 0.3);
+    background:rgba(255, 166, 158, 0.3);
     opacity: 0.8;
     backdrop-filter: blur(60px);
     border: 2px solid rgba(255, 255, 255, 0.4);
